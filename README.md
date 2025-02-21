@@ -14,5 +14,5 @@ This project consists of two main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/Tanjeelur/Chatbot-ollama-CSV-RAG-.git
    cd your-repo-name
