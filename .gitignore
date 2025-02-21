@@ -1,0 +1,26 @@
+
+### 3. **`.gitignore` File**
+To avoid uploading unnecessary files to GitHub (e.g., `chromedriver.exe`, virtual environment files, or the scraped data), create a `.gitignore` file:
+
+```plaintext
+# Ignore virtual environment files
+venv/
+.env/
+
+# Ignore ChromeDriver executable
+chromedriver.exe
+
+# Ignore scraped data
+amazon.csv
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
